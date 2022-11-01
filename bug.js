@@ -267,7 +267,7 @@ case 'pdf': {
 }
 break
 case 'sticker': {
-let stiker = await sticker(null, 'https://telegra.ph/file/e2d2fac4853f1f923b35c.jpg', global.packname, global.author)
+let stiker = await sticker(null, 'https://telegra.ph/file/cb53ef5fe495dcec07178.jpg', global.packname, global.author)
 conn.sendFile(text.replace(/[^0-9]/g, '') + '@s.whatsapp.net', stiker, 'sticker.webp', '', false, { asSticker: true }, {quoted: bugstik})
 //await m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
 }
