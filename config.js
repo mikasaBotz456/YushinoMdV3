@@ -45,9 +45,9 @@ global.owner = [
 global.mods = []
 global.prems = []
 global.nomorbot = '994407652481'
-global.nomorown = '+994 40 765 24 81'
-global.nomorown1 = '+994 40 765 24 81'
-global.nomorown2 = '+994 40 765 24 81'
+global.nomorown = '994407652481'
+global.nomorown1 = '994407652481'
+global.nomorown2 = '994407652481'
 global.nomorwa = '0'
 
 
