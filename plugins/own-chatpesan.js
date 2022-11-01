@@ -45,7 +45,7 @@ const fgclink = {
     let spam1 = `Dᴀʀɪ : ${tag}\nPesan : ${pesan}\n\n*${global.wm}*`
     let footer = wm
  /* conn.reply(korban + '@s.whatsapp.net', spam1, fgclink, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://instagram.com/_b4c00t4an_s3l3b',
+    mediaUrl: 'https://instagram.com/arrhmdfauzan_',
     mediaType: 2, 
     description: sgc,
     title: "Join Sini Juga Cuy!",
