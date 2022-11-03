@@ -40,14 +40,14 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6283890269424', 'Mikasa', true],
-['6283890269424', 'Mikasa', true]
+['994407652481', 'Nazuaf', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6283890269424'
-global.nomorown = '6283890269424'
-global.nomorown1 = '6283890269424'
-global.nomorown2 = '6283890269424'
+global.nomorown = '994407652481'
+global.nomorown1 = '994407652481'
+global.nomorown2 = '994407652481'
 global.nomorwa = '0'
 
 
@@ -306,7 +306,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://instagram.com/arrhmdfauzan_"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6283890269424'
+global.phn = '994407652481'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
