@@ -166,7 +166,7 @@ global.reloadHandler = async function (restatConn) {
   }
   
 let welc = `
-❖━━━[ *어서 오십시오* ]━━━❖
+❖━━━[ *いらっしゃいませ* ]━━━❖
 ┏––––––━━━━━━━━•
 │☘︎ @subject
 ┣━━━━━━━━┅┅┅
